@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+/* h1 color: white; was added to #flat-iron*/
+
+h1,
+  h3,
+    h4{
+      font-weight: bold;
+    }
+
+h1 {
+  font-size: 70px;
+}
+
+/* h2 color: white; was added to #flat-iron*/
+h2 {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+h4 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+/* added to keep links 'white' */
+a {
+  color:white;
+}
+
+.footer{
+  font-size: 11px;
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+#flat-iron{
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
